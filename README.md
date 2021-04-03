@@ -2,7 +2,7 @@
 
 ### 🇲🇽 🎮 🐶
 
-![fermendivilt's GitHub stats](https://github-readme-stats.vercel.app/api?username=fermendivilt&show_icons=true&theme=radical)
+![fermendivilt's GitHub stats](https://github-readme-stats.vercel.app/api?username=fermendivilt&show_icons=true&theme=tokyonight)
 
 <!--
 **fermendivilt/fermendivilt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
